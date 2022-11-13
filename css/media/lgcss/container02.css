@@ -1,0 +1,122 @@
+div.all>div.all-menu>div.containet02{
+width: 100%;
+height: 270px;
+border-bottom: 2px solid gray;
+text-transform: uppercase;
+padding: 25px 0;
+}
+
+div.all>div.all-menu>div.containet02>div.news{
+width: 100%;
+height: 207px;
+margin: 0 auto;
+
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line{
+width: 100%;
+height: 35px;
+border-bottom: 2px solid gray;
+position: relative;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.text{
+width: 12%;
+height: inherit;
+text-align: left;
+display: inline-block;
+vertical-align: top;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.text>h2{
+color: aliceblue;
+font-family: f04;
+font-size: 1em;
+line-height: 45px;
+font-weight: 100;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.right{
+width: 30%;
+height: inherit;
+display: inline-block;
+vertical-align: top;
+position: absolute;
+right: 15px;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.right>p{
+color: aliceblue;
+font-family: f04;
+font-size: 0.8em;
+line-height: 50px;
+font-weight: 100;
+display: inline-block;
+vertical-align: top;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.right>a{
+width: 7%;
+height: inherit;
+display: inline-block;
+vertical-align: top;
+margin: 0 2px;
+line-height: 50px;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.right>a>img{
+width: 100%;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.right>a.text{
+color: rgb(190, 190, 190);
+font-family: f04;
+font-size: 1em;
+line-height: 50px;
+font-weight: 100;
+display: inline-block;
+vertical-align: top;
+margin-left: 10px;
+text-transform: capitalize !important;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.right>a.button{
+width: 17%;
+height: 25px;
+display: inline-block;
+vertical-align: top;
+margin: 8px 2px;
+line-height: 50px;
+text-align: center;
+background-color: rgb(231, 231, 231);
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.line>div.right>a.button>p{
+color: rgb(0, 0, 0);
+font-family: f04;
+font-size: 0.55em;
+line-height: 25px;
+font-weight: 600;
+display: inline-block;
+vertical-align: top;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.slider{
+width: 100%;
+height: calc(100% - 35px);
+position: relative;
+padding-top: 20px;
+text-align: center;
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.slider>img{
+width: 18.5%;
+display: inline-block;
+vertical-align: top;
+margin: 0 5px;
+
+}
+
+div.all>div.all-menu>div.containet02>div.news>div.slider02{
+display: none;
+}

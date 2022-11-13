@@ -1,0 +1,72 @@
+div.all>div.all-menu>div.img-link{
+width: 100%;
+height: 900px;
+}
+
+div.all>div.all-menu>div.img-link>div.partial{
+width: 85%;
+height: inherit;
+margin: 0 auto;
+text-align: center;
+}
+
+div.all>div.all-menu>div.img-link>div.partial>div.text{
+width: 100%;
+height: 90px;
+text-align: center;
+}
+
+div.all>div.all-menu>div.img-link>div.partial>div.text>h2{
+color: rgb(196, 196, 196);
+font-family: f04;
+font-size: 1.5em;
+line-height: 90px;
+font-weight: 100;
+text-transform: uppercase;
+}
+
+div.all>div.all-menu>div.img-link>div.partial>div.img{
+width: 45%;
+height: 220px;
+display: inline-block;
+vertical-align: top;
+margin: 20px 7px 0 7px;
+position: relative;
+background-color: black;
+}
+
+div.all>div.all-menu>div.img-link>div.partial>div.img>img{
+width: 100%;
+}
+
+
+div.all>div.all-menu>div.img-link>div.partial>div.img>p{
+width: 100%;
+color: rgb(196, 196, 196);
+font-family: f06;
+font-size: 0.8em;
+line-height: 20px;
+font-weight: 100;
+position: absolute;
+bottom: 15px;
+text-transform: uppercase;
+}
+
+.border01{
+border: 2px double #7AC32C;
+}
+
+
+.border02{
+border: 2px double #B99739;
+}
+
+
+.border03{
+border: 2px double #ffffff;
+}
+
+
+.border04{
+border: 2px double rgb(196, 196, 0);
+}

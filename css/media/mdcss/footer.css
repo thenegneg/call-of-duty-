@@ -1,0 +1,81 @@
+div.all>div.all-menu>div.footer{
+width: 100%;
+height: auto;
+padding-top: 100px;
+}
+
+div.all>div.all-menu>div.footer>div.full{
+width: 95%;
+height: inherit;
+margin: 0 auto;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.line{
+width: 100%;
+height:250px;
+position: relative;
+
+}
+
+div.all>div.all-menu>div.footer>div.full>div.line>div.a{
+width:100%;
+height: 30px;
+text-align: center;
+position: relative;
+left: calc(50% - 100% / 2);
+margin-top: 5px;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.line>div.a>a{
+color: rgb(196, 196, 196);
+font-family: f02;
+font-size: 1em;
+line-height: 20px;
+}
+
+.border{
+border: none !important;
+}
+
+
+div.all>div.all-menu>div.footer>div.full>div.left{
+width: 52%;
+height: inherit;
+text-align: center;
+padding-top: 20px;
+display: inline-block;
+vertical-align: top;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.left>img{
+width: 24%;
+display: inline-block;
+vertical-align: top;
+margin: 10px 20px;
+}
+
+.size{
+width: 12% !important;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.right{
+width: 47%;
+height: inherit;
+display: inline-block;
+vertical-align: top;
+position: relative;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.right>img.small{
+width: 20%;
+position: absolute;
+top: 30px;
+left: 150px
+}
+
+div.all>div.all-menu>div.footer>div.full>div.right>img.big{
+width: 60%;
+position: absolute;
+top: 160px;
+right: 110px;
+}

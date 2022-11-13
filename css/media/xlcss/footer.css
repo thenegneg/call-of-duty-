@@ -1,0 +1,79 @@
+div.all>div.all-menu>div.footer{
+width: 100%;
+padding-top: 100px;
+}
+
+div.all>div.all-menu>div.footer>div.full{
+width: 65%;
+height: inherit;
+margin: 0 auto;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.line{
+width: 100%;
+height:50px;
+text-align: center;
+border-bottom: 1px solid rgb(196, 196, 196);
+}
+
+div.all>div.all-menu>div.footer>div.full>div.line>div.a{
+width:13.3%;
+border-right: 1px solid rgb(196, 196, 196);
+text-align: center;
+display: inline-block;
+vertical-align: top;
+
+}
+
+div.all>div.all-menu>div.footer>div.full>div.line>div.a>a{
+color: rgb(196, 196, 196);
+font-family: f02;
+font-size: 1em;
+}
+
+.border{
+border: none !important;
+}
+
+
+div.all>div.all-menu>div.footer>div.full>div.left{
+width: 50%;
+height: inherit;
+text-align: center;
+padding-top: 20px;
+display: inline-block;
+vertical-align: top;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.left>img{
+width: 20%;
+display: inline-block;
+vertical-align: top;
+margin: 20px 20px;
+}
+
+.size{
+width: 12% !important;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.right{
+width: 49%;
+height: inherit;
+display: inline-block;
+vertical-align: top;
+position: relative;
+}
+
+div.all>div.all-menu>div.footer>div.full>div.right>img.small{
+width: 20%;
+position: absolute;
+top: 70px;
+left: 50px
+}
+
+div.all>div.all-menu>div.footer>div.full>div.right>img.big{
+width: 60%;
+position: absolute;
+top: 50px;
+right: 10px;
+}
